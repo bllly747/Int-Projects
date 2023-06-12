@@ -9,10 +9,10 @@ public class ExamSeatingArrangement {
         List<Student> students = new ArrayList<>();
 
         // Add students to the list
-        students.add(new Student("John Doe", "123456789"));
-        students.add(new Student("Jane Doe", "987654321"));
-        students.add(new Student("Mike Smith", "012345678"));
-        students.add(new Student("Sarah Jones", "876543210"));
+        students.add(new Student("Abongile Billy", "123456789"));
+        students.add(new Student("Kaydence Mokoena", "987654321"));
+        students.add(new Student("Mike Sdong", "012345678"));
+        students.add(new Student("Sarah TJones", "876543210"));
 
         // Create a list of exam rooms
         List<ExamRoom> examRooms = new ArrayList<>();
