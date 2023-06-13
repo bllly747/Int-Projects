@@ -45,7 +45,6 @@ for (Student student : students) {
 for (ExamRoom examRoom : examRooms) {
     System.out.println(examRoom.getSeatingArrangement());
 }
-Use code with caution. Learn more
 The output of the program will be:
 
 Code snippet
